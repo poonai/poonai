@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm poonai, your friendly meta cat. Building @StreakTech and part-time @Quicklog-dev
+
 <!--
 **balajijinnah/balajijinnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
