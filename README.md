@@ -2,7 +2,7 @@
 
 I'm Poonai, your friendly meta cat. I'm one of the co-founder👨‍💼 of [Streak](https://streakcard.com) and taking care of technologies and tech team.
 
-I've experience in storage, distributed systems and networking. In my free time, I build side projects. Currently, I'm building [Inspektor](https://github.com/poonai/inspektor)🔭  at my free time.
+I've experience in storage, distributed systems and networking.
 
 If you want to reach out, you can DM me on [Twitter](https://twitter.com/poonai_)🐦.  
 <!--
