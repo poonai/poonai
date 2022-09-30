@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Poonai, your friendly meta cat. I'm one of the co-founder👨‍💼 of [Streak](https://streakcard.com) and taking care of technologies and tech team.
+I'm Poonai, your friendly meta cat a YC alumni.
 
-I've experience in storage, distributed systems and networking.
+I've experience in storage, distributed systems and networking. Now, excited about web3
 
 If you want to reach out, you can DM me on [Twitter](https://twitter.com/poonai_)🐦.  
 <!--
