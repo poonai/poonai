@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Poonai, your friendly meta cat a YC alumni.
+I'm Poonai, your friendly meta cat and a YC alumni.
 
 I've experience in storage, distributed systems and networking. Now, excited about web3
 
