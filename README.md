@@ -5,6 +5,8 @@ I'm Poonai, your friendly meta cat and a YC alumni.
 I've experience in storage, distributed systems and networking. Now, excited about web3
 
 If you want to reach out, you can DM me on [Twitter](https://twitter.com/poonai_)🐦.  
+
+Open for RUST jobs.
 <!--
 **balajijinnah/balajijinnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
