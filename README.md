@@ -6,7 +6,7 @@ I've experience in storage, distributed systems and networking. Now, excited abo
 
 If you want to reach out, you can DM me on [Twitter](https://twitter.com/poonai_)🐦.  
 
-Open for RUST jobs.
+Doing web3 job.
 <!--
 **balajijinnah/balajijinnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
