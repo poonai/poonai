@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I'm Poonai, your friendly meta cat and a YC alumni.
+I'm Poonai, your friendly meta cat and a YC alumni and interested in transitioning into a Research Engineer role
 
-I've experience in storage, distributed systems and networking. Now, excited about web3
+I've experience in storage, distributed systems, networking and Web3. Now, excited about Math.
 
 If you want to reach out, you can DM me on [Twitter](https://twitter.com/poonai_)🐦.  
 
-Doing web3 job.
 <!--
 **balajijinnah/balajijinnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
