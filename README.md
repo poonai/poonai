@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Poonai, your friendly meta cat and a YC alumni and interested in transitioning into a Research Engineer role
+I'm Poonai, your friendly meta cat and interested in transitioning into a Research Engineer role
 
 I've experience in storage, distributed systems, networking and Web3. Now, excited about Math.
 
